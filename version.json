@@ -1,0 +1,11 @@
+{
+  "latestVersion": "1.0.1",
+  "downloadUrl": "https://github.com/YOUR_USERNAME/nexly/releases/download/v1.0.1/nexly.apk",
+  "releaseNotes": [
+    "Fixed navigation bar on all Android devices",
+    "Smoother animations throughout app",
+    "Better content matching accuracy",
+    "Improved dark and light mode",
+    "Performance improvements"
+  ]
+}
