@@ -1,11 +1,13 @@
 {
-  "latestVersion": "1.0.1",
-  "downloadUrl": "https://github.com/YOUR_USERNAME/nexly/releases/download/v1.0.1/nexly.apk",
+  "latestVersion": "1.0.2",
+  "downloadUrl": "https://nexly-website.vercel.app/",
   "releaseNotes": [
-    "Fixed navigation bar on all Android devices",
-    "Smoother animations throughout app",
-    "Better content matching accuracy",
-    "Improved dark and light mode",
-    "Performance improvements"
+    "🚀 INTRODUCING: Nexly Weekly Digest — A premium, 5-section intelligence briefing auto-generated every Sunday at 6 PM.",
+    "🧠 F1–F4 Intelligence Pipeline: Highly advanced algorithms for Trending Scores, Cross-Platform Deduplication, and Quality Ranking.",
+    "💎 Hidden Gems Discovery: New 'F3' logic surfaces high-quality content that hasn't gone viral yet.",
+    "📈 Emerging Topics: Intelligence engine now tracks keyword growth ratios to alert you to rising trends before they hit the mainstream.",
+    "✨ Cinematic UI: Implemented staggered list entries, count-up statistics, and premium Lottie-powered animations for a world-class feel.",
+    "🎨 Visual Polish: High-contrast Dark Mode (Deep Navy) and 'Paper' Light Mode for maximum readability.",
+    "🛠️ Platform Stability: Fixed navigation bar issues on Android devices and improved content matching accuracy across all 5+ sources."
   ]
 }
